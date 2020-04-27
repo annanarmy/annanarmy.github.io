@@ -1,0 +1,37 @@
+*{}
+.brand img{
+	width: 105px;
+}
+.navbar-brand{
+	margin-left: 100px;
+}
+.navbar-nav{
+	margin-right: 100px;
+}
+.moto{
+	width: 110%;
+	padding-left: 150px;
+	padding-top: 100px;
+}
+.hero{
+	width: 100%;
+}
+@media only screen and (max-width: 700px){
+.brand img{
+	width: 140px;
+}
+.navbar-brand{
+	margin-left: 20px;
+}
+.navbar-nav{
+	margin-right: 100px;
+	}
+.moto{
+	width: 100%;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+.hero{
+	width: 100%;
+}
+}
